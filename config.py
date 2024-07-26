@@ -17,8 +17,8 @@ def is_enabled(value, default):
 
 class Config(object):
     # Bot Information 
-    TECH_VJ_BOT_TOKEN = os.environ.get("TECH_VJ_BOT_TOKEN", "7479227005:AAEHDWOhE6HI4y2MFzk14vVtoMZ_2oOV3_w")
-    TECH_VJ_BOT_USERNAME = os.environ.get("TECH_VJ_BOT_USERNAME", "Koh_url_uploader_bot") # Bot username without @.
+    TECH_VJ_BOT_TOKEN = os.environ.get("TECH_VJ_BOT_TOKEN", "7304418332:AAE-vAuwOnOobUfaivNXBFpqqYrfMvVPnwc")
+    TECH_VJ_BOT_USERNAME = os.environ.get("TECH_VJ_BOT_USERNAME", "Agent_url_uploaderbot") # Bot username without @.
     
     # The Telegram API things
     TECH_VJ_API_ID = int(os.environ.get("TECH_VJ_API_ID", "29201763"))
@@ -59,7 +59,7 @@ class Config(object):
     
     # if you want force subscribe then give your channel id below else leave blank
     tech_vj_update_channel = environ.get('TECH_VJ_UPDATES_CHANNEL', '') # your update channel id and make bot admin in update channel with full right
-    TECH_VJ_UPDATES_CHANNEL = int(tech_vj_update_channel) if tech_vj_update_channel and id_pattern.search(tech_vj_update_channel) else None  
+    TECH_VJ_UPDATES_CHANNEL = int(koh_premium_bots) if tech_vj_update_channel and id_pattern.search(tech_vj_update_channel) else None  
     
     # Url Shortner Information 
     TECH_VJ = bool(environ.get('TECH_VJ', False)) # Set False If you want shortlink off else True
