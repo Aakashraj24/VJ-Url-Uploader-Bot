@@ -4,13 +4,13 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 class Translation(object):
 
     TECH_VJ_START_TEXT = """
-<b>ʜᴇʟʟᴏ {} 👋
+<b>ʜᴇʟʟᴏ {} 👋</b>
 
 ɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴀᴅᴠᴀɴᴄᴇ ᴜʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ
 
 ɢɪᴠᴇ ᴍᴇ ᴀɴʏ ʟɪɴᴋ ɪ ᴡɪʟʟ ᴜᴘʟᴏᴀᴅ ɪɴᴛᴏ ғɪʟᴇ ᴏʀ ᴠɪᴅᴇᴏ ᴡɪᴛʜ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ sᴜᴘᴘᴏʀᴛ
 
-ᴛʜɪs ʙᴏᴛ ɪs ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href="https://t.me/koh_premium_bots">𝐊𝐎𝐇 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 𝐁𝐨𝐭𝐬</a></b>
+ᴛʜɪs ʙᴏᴛ ɪs ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href="https://t.me/koh_premium_bots">𝐊𝐎𝐇 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 𝐁𝐨𝐭𝐬</a>
 """
 
     TECH_VJ_HELP_TEXT = """
@@ -24,19 +24,17 @@ class Translation(object):
 
 🔺 ᴘᴇʀᴍᴀɴᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ Sᴜᴘᴘᴏʀᴛ.
 
-🔺 ʙʀᴏᴀᴅᴄᴀsᴛ ᴍᴇssᴀɢᴇ ʙʏ /broadcast ᴄᴏᴍᴍᴀɴᴅ
-
 💢 ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ :- 
 
 🔻 sᴇɴᴅ ᴍᴇ ᴛʜᴇ ɢᴏᴏɢʟᴇ ᴅʀɪᴠᴇ | ʏᴛᴅʟ | ᴅɪʀᴇᴄᴛ ʟɪɴᴋs.
 
 🔻sᴇʟᴇᴄᴛ ᴛʜᴇ ᴅᴇsɪʀᴇᴅ ᴏᴘᴛɪᴏɴ.
 
-🔻ғᴏʀ ʟᴀᴛᴇsᴛ ʙʜᴏᴊᴘᴜʀɪ ᴍᴏᴠɪᴇ ᴊᴏɪɴ <a href="https://t.me/trmbhojpuri">ᴛʀᴍ ʙʜᴏᴊᴘᴜʀɪ</a>>
+🔻ғᴏʀ ʟᴀᴛᴇsᴛ ʙʜᴏᴊᴘᴜʀɪ ᴍᴏᴠɪᴇ ᴊᴏɪɴ <a href="https://t.me/trmbhojpuri">ᴛʀᴍ ʙʜᴏᴊᴘᴜʀɪ</a></b>
 """
 
     TECH_VJ_ABOUT_TEXT = """
-<b>♻️ ᴍʏ ɴᴀᴍᴇ : ᴀɢᴇɴᴛ ᴜʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ
+<b>♻️ ᴍʏ ɴᴀᴍᴇ : ᴀɢᴇɴᴛ ᴜʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ</b>
 
 🌀 ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/koh_premium_bots">ᴋᴏʜ ᴘʀᴇᴍɪᴜᴍ ʙᴏᴛs</a>
 
@@ -46,7 +44,7 @@ class Translation(object):
 
 🇵🇲 ғʀᴀᴍᴇᴡᴏʀᴋ : <a href="https://docs.pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ 2.0.30</a>
 
-👲 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href="https://t.me/trmbhojpuri">ᴛʀᴍ ʙʜᴏᴊᴘᴜʀɪ</a></b>
+👲 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <b><a href="https://t.me/trmbhojpuri">ᴛʀᴍ ʙʜᴏᴊᴘᴜʀɪ</a></b>
 
 """
 
@@ -104,7 +102,7 @@ class Translation(object):
     TECH_VJ_SAVED_CUSTOM_THUMB_NAIL = "<b>ᴄᴜꜱᴛᴏᴍ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛʜᴜᴍʙɴᴀɪʟ ꜱᴀᴠᴇᴅ. Tʜɪꜱ ɪᴍᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴜꜱᴇᴅ ɪɴ ᴛʜᴇ ᴠɪᴅᴇᴏ / ғɪʟᴇ.</b>"
     TECH_VJ_DEL_ETED_CUSTOM_THUMB_NAIL = "<b>✅ ᴄᴜꜱᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ᴅᴇʟᴇᴛᴇᴅ ꜱᴜᴄᴄᴇꜱғᴜʟʟʏ.</b>"
     TECH_VJ_CUSTOM_CAPTION_UL_FILE = "<b>{}</b>"
-    TECH_VJ_NO_VOID_FORMAT_FOUND = "<b>ᴇʀʀᴏʀ...\n𝙺𝙾𝙷 𝙰𝚐𝚎𝚗𝚝 ꜱᴀɪᴅ: {}</b>"
+    TECH_VJ_NO_VOID_FORMAT_FOUND = "ᴇʀʀᴏʀ...\n<b>𝙺𝙾𝙷 𝙰𝚐𝚎𝚗𝚝 ꜱᴀɪᴅ:</b> {}"
     TECH_VJ_REPLY_TO_MEDIA_ALBUM_TO_GEN_THUMB = "<b>ʀᴇᴘʟʏ /generatecustomthumbnail ᴛᴏ ᴀ ᴍᴇᴅɪᴀ ᴀʟʙᴜᴍ, ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴄᴜꜱᴛᴏᴍ ᴛʜᴜᴍʙᴀɪʟ</b>"
     TECH_VJ_ERR_ONLY_TWO_MEDIA_IN_ALBUM = """<b>ᴍᴇᴅɪᴀ ᴀʟʙᴜᴍ ꜱʜᴏᴜʟᴅ ᴄᴏɴᴛᴀɪɴ ᴏɴʟʏ ᴛᴡᴏ ᴘʜᴏᴛᴏꜱ. ᴘʟᴇᴀꜱᴇ ʀᴇ-ꜱᴇɴᴅ ᴛʜᴇ ᴍᴇᴅɪᴀ ᴀʟʙᴜᴍ, ᴀɴᴅ ᴛʜᴇɴ ᴛʀʏ ᴀɢᴀɪɴ, ᴏʀ ꜱᴇɴᴅ ᴏɴʟʏ ᴛᴡᴏ ᴘʜᴏᴛᴏꜱ ɪɴ ᴀɴ ᴀʟʙᴜᴍ.\nʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ /ʀᴇɴᴀᴍᴇ ᴄᴏᴍᴍᴀɴᴅ ᴀғᴛᴇʀ ʀᴇᴄᴇɪᴠɪɴɢ ғɪʟᴇ ᴛᴏ ʀᴇɴᴀᴍᴇ ɪᴛ ᴡɪᴛʜ ᴄᴜꜱᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ꜱᴜᴘᴘᴏʀᴛ.</b>"""
     TECH_VJ_CANCEL_STR = "<b>ᴘʀᴏᴄᴇꜱꜱ ᴄᴀɴᴄᴇʟʟᴇᴅ</b>"
@@ -112,3 +110,4 @@ class Translation(object):
     TECH_VJ_SLOW_URL_DECED = "<b>Gᴏꜱʜ ᴛʜᴀᴛ ꜱᴇᴇᴍꜱ ᴛᴏ ʙᴇ ᴀ ᴠᴇʀʏ ꜱʟᴏᴡ URL. Sɪɴᴄᴇ ʏᴏᴜ ᴡᴇʀᴇ ꜱᴄʀᴇᴡɪɴɢ ᴍʏ ʜᴏᴍᴇ, I ᴀᴍ ɪɴ ɴᴏ ᴍᴏᴏᴅ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴛʜɪꜱ ғɪʟᴇ. ᴍᴇ ᴀ ғᴀꜱᴛ URL ꜱᴏ ᴛʜᴀᴛ I ᴄᴀɴ ᴜᴘʟᴏᴀᴅ ᴛᴏ Tᴇʟᴇɢʀᴀᴍ, ᴡɪᴛʜᴏᴜᴛ ᴍᴇ ꜱʟᴏᴡɪɴɢ ᴅᴏᴡɴ ғᴏʀ ᴏᴛʜᴇʀ ᴜꜱᴇʀꜱ.</b>"
 
     TECH_VJ_ERROR_YTDLP = "<b>ᴘʟᴇᴀꜱᴇ ʀᴇᴘᴏʀᴛ ᴛʜɪꜱ ɪꜱꜱᴜᴇ ᴏɴ https://yt-dl.org/bug . ᴍᴀᴋᴇ ꜱᴜʀᴇ ʏᴏᴜ ᴀʀᴇ ᴜꜱɪɴɢ ᴛʜᴇ ʟᴀᴛᴇꜱᴛ ᴠᴇʀꜱɪᴏɴ; ꜱᴇᴇ  https://yt-dl.org/update ᴏɴ ʜᴏᴡ ᴛᴏ ᴜᴘᴅᴀᴛᴇ. ʙᴇ ꜱᴜʀᴇ ᴛᴏ ᴄᴀʟʟ ʏᴏᴜᴛᴜʙᴇ-ᴅʟ ᴡɪᴛʜ ᴛʜᴇ --ᴠᴇʀʙᴏꜱᴇ ғʟᴀɢ ᴀɴᴅ ɪɴᴄʟᴜᴅᴇ ɪᴛꜱ ᴄᴏᴍᴘʟᴇᴛᴇ ᴏᴜᴛᴘᴜᴛ.</b>"
+ᴛᴜʙᴇ-ᴅʟ ᴡɪᴛʜ ᴛʜᴇ --ᴠᴇʀʙᴏꜱᴇ ғʟᴀɢ ᴀɴᴅ ɪɴᴄʟᴜᴅᴇ ɪᴛꜱ ᴄᴏᴍᴘʟᴇᴛᴇ ᴏᴜᴛᴘᴜᴛ.</b>"
