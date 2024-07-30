@@ -40,11 +40,11 @@ class Translation(object):
 
 🌀 ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/koh_premium_bots">ᴋᴏʜ ᴘʀᴇᴍɪᴜᴍ ʙᴏᴛs</a>
 
-🌺 ʜᴇʀᴏᴋᴜ : <a href="https://heroku.com/">ʜᴇʀᴏᴋᴜ</a>
+🌺 ʜɪᴘᴘɪᴇ  : <a href="https://www.hipi.co.in/@trm_bhojpuri_official">ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ʜɪᴘᴘɪᴇ</a>
 
-📑 ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3.10.5</a>
+📑 ɪɴsᴛᴀɢʀᴀᴍ : <a href="https://www.python.org/">ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɪɴsᴛᴀɢʀᴀᴍ</a>
 
-🇵🇲 ғʀᴀᴍᴇᴡᴏʀᴋ : <a href="https://docs.pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ 2.0.30</a>
+🇵🇲 ᴍʏ ɴᴀᴍᴇ : `ᴀᴀᴋᴀsʜ ʀᴀᴊʙʜᴀʀ  ( ᴋᴏʜ )`
 
 👲 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <b><a href="https://t.me/trmbhojpuri">ᴛʀᴍ ʙʜᴏᴊᴘᴜʀɪ</a></b>
 
